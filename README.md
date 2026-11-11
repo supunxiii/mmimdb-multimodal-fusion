@@ -18,7 +18,7 @@ The project also includes initial and subsequent dataset-analysis notebooks, dat
 ![CLIP](https://img.shields.io/badge/CLIP-ViT--B%2F32-412991?style=flat-square)
 ![h5py](https://img.shields.io/badge/h5py-HDF5-0F6B8A?style=flat-square)
 ![Kaggle](https://img.shields.io/badge/Kaggle-MM--IMDb-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-Report-008080?style=flat-square&logo=latex&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=LaTeX&logoColor=white)
 
 ## Features
 
