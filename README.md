@@ -18,9 +18,6 @@ The project also includes initial and subsequent dataset-analysis notebooks, dat
 ![CLIP](https://img.shields.io/badge/CLIP-ViT--B%2F32-412991?style=flat-square)
 ![h5py](https://img.shields.io/badge/h5py-HDF5-0F6B8A?style=flat-square)
 ![Kaggle](https://img.shields.io/badge/Kaggle-MM--IMDb-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-Storage-4285F4?style=flat-square&logo=googledrive&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-Report-008080?style=flat-square&logo=latex&logoColor=white)
 
 ## Features
